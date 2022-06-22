@@ -7,7 +7,7 @@ import java.util.UUID;
 
 public class App {
 
-    private static final List<String> IMAGE_EXTENSIONS = Arrays.asList("jpg", "jpeg", "png", "gif", "webp", "bmp", "ico");
+    private static final List<String> IMAGE_EXTENSIONS = Arrays.asList("jpg", "jpeg", "png", "gif", "webp", "bmp", "ico", "mp4");
     private static final String IMAGE_URL_PREFIX = "https://cdn.jsdelivr.net/gh/shanmh47/imgstore/";
 
     public static void main(String[] args) {
